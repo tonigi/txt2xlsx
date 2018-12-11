@@ -6,9 +6,8 @@ Convert a text table to Excel one char per column
 
 Useful for ASCII art. Or for multiple sequence alignments.
 
-```
 Usage:
-
+```
 txt2xlsx.py in.txt out.xlsx
 ```
 
